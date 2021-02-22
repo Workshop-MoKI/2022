@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
-title: 1st Workshop on Conceptual Modeling Meets Artificial Intelligence and Data-Driven Decision Making (CMAI 2020)
-description: Co-Located with the 39th International Conference on Conceptual Modeling (ER 2020), November 3-6, 2020, Vienna, Austria
+title: 3rd International Workshop on Conceptual Modeling Meets Artificial Intelligence (CMAI 2021)
+description: Co-Located with the 40th International Conference on Conceptual Modeling (ER 2021), 18-21 October 2021 St. Johns, Canada
+
 plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
