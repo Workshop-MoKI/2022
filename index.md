@@ -54,7 +54,7 @@ Workshop Organizers
 ----
 
 - [Dominik Bork](https://www.big.tuwien.ac.at/people/dbork/), TU Wien, Austria
-- [Peter Fettke](https://www.dfki.de/web/ueber-uns/mitarbeiter/person/pefe01/), German Research Center for Artificial Intelligence, Germany
+- [Peter Fettke](https://www.dfki.de/web/ueber-uns/mitarbeiter/person/pefe01/), German Research Center for Artificial Intelligence, Saarland University, Germany
 - [Ulrich Reimer](http://www.ulrichreimer.net/), University of Applied Sciences St. Gallen, Switzerland
 - [Marina Tropmann-Frick](https://www.haw-hamburg.de/beschaeftigte/detailansicht/name/marina-tropmann-frick.html), University of Applied Sciences Hamburg, Germany
 
