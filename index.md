@@ -35,11 +35,11 @@ Further topics of interest include, but are not limited to:
 
 Important Dates
 ----
-Paper submission: 16 June 2021
+Paper submission: 9 July 2021
 
-Author notification: 15 July 2021
+Author notification: 6 August 2021
 
-Camera-ready Version: 29 July 2021
+Camera-ready Version: 20 August 2021
 
 Paper Submission
 ----
