@@ -35,7 +35,7 @@ Further topics of interest include, but are not limited to:
 
 Important Dates
 ----
-Paper submission: 9 July 2021
+Paper submission: extended until 16 July 2021
 
 Author notification: 6 August 2021
 
