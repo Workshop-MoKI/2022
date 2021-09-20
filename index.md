@@ -35,7 +35,7 @@ Further topics of interest include, but are not limited to:
 
 Workshop Program (CET)
 ----
-**CMAI Session I**
+**CMAI Session I**\
 12.30 - 12.40	Introduction to the Workshop: Conceptual Modeling and Artificial Intelligence: Mutual Benefits from Complementary Worlds\
 *Dominik Bork*
 
@@ -48,7 +48,7 @@ Workshop Program (CET)
 13.40 - 14.10	Using Conceptual Modeling to Drive Machine Learning Solutions Development - A Case Report on applying GR4ML\
 *Soroosh Nalchigar and Eric Yu*
 	
-**CMAI Session II**
+**CMAI Session II**\
 14.15  - 14.45	Searching for Models with Hybrid AI Techniques\
 *Martin Eisenberg, Hans-Peter Pichler, Antonio Garmendia and Manuel Wimmer*
 
