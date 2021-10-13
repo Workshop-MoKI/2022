@@ -33,29 +33,29 @@ Further topics of interest include, but are not limited to:
 - Model-driven guidance and support for data analytics lifecycle
 - Conceptual models for supporting users with conducting data analysis
 
-Workshop Program (CET)
+Workshop Program (CEST)
 ----
 **CMAI Session I**\
-12.30 - 12.40	Introduction to the Workshop: Conceptual Modeling and Artificial Intelligence: Mutual Benefits from Complementary Worlds\
+13.30 - 13.40	Introduction to the Workshop: Conceptual Modeling and Artificial Intelligence: Mutual Benefits from Complementary Worlds\
 *Dominik Bork*
 
-12.40 - 13.10	Progressing Machine Learning with Support from Conceptual Model\
+13.40 - 14.10	Progressing Machine Learning with Support from Conceptual Model\
 *Wolfgang Maass and Veda C. Storey*
 
-13.10 - 13.40	The Role of Domain Knowledge for Improving Machine Learning via Conceptual Models\
+14.10 - 14.40	The Role of Domain Knowledge for Improving Machine Learning via Conceptual Models\
 *Arturo Castellanos, Alfred Castillo, Monica Chiarini Tremblay, Roman Lukyanenko, Jeffrey Parsons and Veda C. Storey*
 
-13.40 - 14.10	Using Conceptual Modeling to Drive Machine Learning Solutions Development - A Case Report on applying GR4ML\
+14.40 - 15.10	Using Conceptual Modeling to Drive Machine Learning Solutions Development - A Case Report on applying GR4ML\
 *Soroosh Nalchigar and Eric Yu*
 	
 **CMAI Session II**\
-14.15  - 14.45	Searching for Models with Hybrid AI Techniques\
+15.30  - 16.00	Searching for Models with Hybrid AI Techniques\
 *Martin Eisenberg, Hans-Peter Pichler, Antonio Garmendia and Manuel Wimmer*
 
-14.45  - 15.15	Conceptual Modelling and Artificial Intelligence - Overview and research challenges from the perspective of predictive business process management\
+16.00  - 16.30	Conceptual Modelling and Artificial Intelligence - Overview and research challenges from the perspective of predictive business process management\
 *Peter Fettke*
 
-15.15  - 15.45	Wrap-Up
+16.30  - 17.00	Wrap-Up
 
 
 Important Dates
