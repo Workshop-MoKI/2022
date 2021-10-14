@@ -42,7 +42,7 @@ Workshop Program (CEST)
 13.40 - 14.10	Progressing Machine Learning with Support from Conceptual Model [Paper (PDF)](/papers/[MaassStorey21]WhyShouldMachineLearningRequireConceptualModels.pdf)\
 *Wolfgang Maass and Veda C. Storey*
 
-14.10 - 14.40	The Role of Domain Knowledge for Improving Machine Learning via Conceptual Models [Paper (PDF)](/papers/[Castellanos+12]ConceptualModelsForML.pdf)\
+14.10 - 14.40	The Role of Domain Knowledge for Improving Machine Learning via Conceptual Models [Paper (PDF)](/papers/[Castellanos+12]ConceptualModelsForML.pdf), further reading: [AAAI'21](http://ceur-ws.org/Vol-2846/paper11.pdf) [ER'20](https://link.springer.com/chapter/10.1007/978-3-030-65847-2_3) [CAiSE'19](https://link.springer.com/chapter/10.1007/978-3-030-21297-1_15) [EMMSAD'21](https://link.springer.com/chapter/10.1007/978-3-030-79186-5_19) [DKE'21](https://www.sciencedirect.com/science/article/pii/S0169023X21000367) [MSIQ'21](https://misq.org/from-representation-to-mediation-a-new-agenda-for-conceptual-modeling-research-in-a-digital-world.html)\
 *Arturo Castellanos, Alfred Castillo, Monica Chiarini Tremblay, Roman Lukyanenko, Jeffrey Parsons and Veda C. Storey*
 
 14.40 - 15.10	Using Conceptual Modeling to Drive Machine Learning Solutions Development - A Case Report on applying GR4ML [Paper (PDF)](/papers/[NalchigarYu21]UsingConceptualModelingToDriveMachineLearningSolutionsDevelopment.pdf)\
