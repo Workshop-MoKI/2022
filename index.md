@@ -39,20 +39,20 @@ Workshop Program (CEST)
 13.30 - 13.40	Introduction to the Workshop: Conceptual Modeling and Artificial Intelligence: Mutual Benefits from Complementary Worlds\
 *Dominik Bork*
 
-13.40 - 14.10	Progressing Machine Learning with Support from Conceptual Model\
+13.40 - 14.10	Progressing Machine Learning with Support from Conceptual Model [Paper](/papers/[MaassStorey21]WhyShouldMachineLearningRequireConceptualModels.pdf)\
 *Wolfgang Maass and Veda C. Storey*
 
-14.10 - 14.40	The Role of Domain Knowledge for Improving Machine Learning via Conceptual Models\
+14.10 - 14.40	The Role of Domain Knowledge for Improving Machine Learning via Conceptual Models [Paper](/papers/[Castellanos+12]ConceptualModelsForML.pdf)\
 *Arturo Castellanos, Alfred Castillo, Monica Chiarini Tremblay, Roman Lukyanenko, Jeffrey Parsons and Veda C. Storey*
 
-14.40 - 15.10	Using Conceptual Modeling to Drive Machine Learning Solutions Development - A Case Report on applying GR4ML\
+14.40 - 15.10	Using Conceptual Modeling to Drive Machine Learning Solutions Development - A Case Report on applying GR4ML [Paper](/papers/[NalchigarYu21]UsingConceptualModelingToDriveMachineLearningSolutionsDevelopment.pdf)\
 *Soroosh Nalchigar and Eric Yu*
 	
 **CMAI Session II chaired by Ulrich Reimer**\
-15.30  - 16.00	Searching for Models with Hybrid AI Techniques\
+15.30  - 16.00	Searching for Models with Hybrid AI Techniques [Paper](/papers/[Eisenberg+21]SearchingForModelsWithHybridAITechniques.pdf)\
 *Martin Eisenberg, Hans-Peter Pichler, Antonio Garmendia and Manuel Wimmer*
 
-16.00  - 16.30	Conceptual Modelling and Artificial Intelligence - Overview and research challenges from the perspective of predictive business process management\
+16.00  - 16.30	Conceptual Modelling and Artificial Intelligence - Overview and research challenges from the perspective of predictive business process management [Paper](/papers/[Fettke21]AI_BPM_short.pdf)\
 *Peter Fettke*
 
 16.30  - 17.00	Wrap-Up
