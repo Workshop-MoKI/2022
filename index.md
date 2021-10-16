@@ -36,7 +36,7 @@ Further topics of interest include, but are not limited to:
 Workshop Program (CEST)
 ----
 **CMAI Session I chaired by Dominik Bork**\
-13.30 - 13.40	Introduction to the Workshop: Conceptual Modeling and Artificial Intelligence: Mutual Benefits from Complementary Worlds\
+13.30 - 13.40	Introduction to the Workshop: Conceptual Modeling and Artificial Intelligence: Mutual Benefits from Complementary Worlds [Paper (PDF)](/papers/CMAI2021_Intro.pdf)\
 *Dominik Bork*
 
 13.40 - 14.10	Why Should Machine Learning Require Conceptual Models? [Paper (PDF)](/papers/[MaassStorey21]WhyShouldMachineLearningRequireConceptualModels.pdf)\
