@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: 3rd International Workshop on Conceptual Modeling Meets Artificial Intelligence (CMAI 2021)
-description: Co-Located with the 40th International Conference on Conceptual Modeling (ER 2021), 18-21 October 2021 St. Johns, Canada
+title: Workshop Modelle und KI (MoKI 2022)
+description: Co-Located with the Modellierung 2022 Conference in Hamburg, 27.06.2022 - 01.07.2022
 
 plugins:
   - jekyll-relative-links
