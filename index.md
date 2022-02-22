@@ -3,9 +3,12 @@ With the increasing availability of large amounts of data in practically all app
 The approaches to conceptual modelling as well as earlier approaches to AI have mainly been focusing on the manual engineering of models, which requires a great deal of time and money. Thus, depending on the application domain, these approaches scale up poorly. There is a huge potential in combining manual model engineering with data-driven model generation: the advantages of both approaches can be combined and their disadvantages be mitigated. 
 
 In this workshop, we are interested in all kinds of submissions at the intersection of the fields of conceptual modeling and AI. More specifically, we would like to see contributions that explore the value conceptual modeling brings to AI, and, vice versa, the value that AI can bring to conceptual modeling. Papers can be in one of the following categories:
-*novel ideas and solutions*
-*critical reviews of problems and possible approaches*
-*agenda setting papers*
+
+**novel ideas and solutions**
+
+**critical reviews of problems and possible approaches**
+
+**agenda setting papers**
 
 
 
