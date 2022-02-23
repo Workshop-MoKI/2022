@@ -61,7 +61,7 @@ Important Dates
 
 Paper Submission and Format
 ----
-We accept submission with a length between eight (8) and fourteen (14) pages plus additional up to four (4) pages for references. All papers need to be submitted via [EasyChair]() and follow the [GI Lecture Notes in Informatics formatting guidelines](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/LNI/LNI-authorsinstructions-english.doc). In order to enable a uniform appearance of the contributions, we ask you to use the provided [LaTeX format template](https://mirrors.ctan.org/macros/latex/contrib/lni.zip). The LaTeX files must be submitted with the final version of the contribution. The MoKI workshop accepts papers in English and German language.
+We accept submission with a length between eight (8) and fourteen (14) pages plus additional up to four (4) pages for references. All papers need to be submitted via [EasyChair](https://easychair.org/conferences/?conf=moki22) and follow the [GI Lecture Notes in Informatics formatting guidelines](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/LNI/LNI-authorsinstructions-english.doc). In order to enable a uniform appearance of the contributions, we ask you to use the provided [LaTeX format template](https://mirrors.ctan.org/macros/latex/contrib/lni.zip). The LaTeX files must be submitted with the final version of the contribution. The MoKI workshop accepts papers in English and German language.
 
 Publication
 ----
