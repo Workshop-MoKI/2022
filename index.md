@@ -4,15 +4,13 @@ The approaches to conceptual modelling as well as earlier approaches to AI have 
 
 In this workshop, we are interested in all kinds of submissions at the intersection of the fields of conceptual modeling and AI. More specifically, we would like to see contributions that explore the value conceptual modeling brings to AI, and, vice versa, the value that AI can bring to conceptual modeling. Papers can be in one of the following categories:
 
-**novel ideas and solutions**
+**1. Novel ideas and solutions**
 
-**critical reviews of problems and possible approaches**
+**2. Critical reviews of problems and possible approaches**
 
-**agenda setting papers**
+**3. Agenda setting papers**
 
-
-
-Topics of Interest
+# Topics of Interest
 ----
 Topics of interest include, but are not limited to:
 
@@ -57,26 +55,21 @@ Workshop Program (CEST)
 
 Important Dates
 ----
-Paper submission: 23.04.2022
+- Paper submission: 23.04.2022
+- Author notification: 14.05.2022
+- Camera-ready Version: 26.05.2022
 
-Author notification: 14.05.2022
-
-Camera-ready Version: 26.05.2022
-
-Paper Submission
+Paper Submission and Format
 ----
-Wissenschaftliche Beiträge können als Langbeiträge (mit bis zu 14 Seiten, zuzüglich bis zu 4 Seiten Literaturverzeichnis) und als Kurzbeiträge (bis zu 3 Seiten, zuzüglich bis zu 2 Seiten Literaturverzeichnis) über Easychair für die Konferenz eingereicht werden. Die Seitengrenzen sind verbindlich und schließen Anhänge mit ein. Der Tagungsband wird in der GI-Reihe Lecture Notes in Informatics (LNI) erscheinen. Die Gestaltung der Beiträge wird durch die LNI-Richtlinien bestimmt. Die Beiträge werden in Indizes wie dem DLBP gelistet. AutorInnen können angenommene Beiträge überarbeiten und bei entsprechenden Fachzeitschriften zur Publikation einreichen.
+We accept submission with a length between eight (8) and fourteen (14) pages plus additional up to four (4) pages for references. All papers need to be submitted via [EasyChair]() and follow the [GI Lecture Notes in Informatics formatting guidelines](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/LNI/LNI-authorsinstructions-english.doc). In order to enable a uniform appearance of the contributions, we ask you to use the provided [LaTeX format template](https://mirrors.ctan.org/macros/latex/contrib/lni.zip). The LaTeX files must be submitted with the final version of the contribution. 
 
-Format
-
-Die Beiträge müssen verpflichtend die [Autorenhinweise der LNI Reihe](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/LNI/LNI-authorsinstructions-english.doc) befolgen und zwecks einheitlichem Erscheinungsbild mit der bereitgestellten [LaTeX-Formatvorlage](https://mirrors.ctan.org/macros/latex/contrib/lni.zip) erstellt werden. Die LaTeX-Dateien müssen mit der finalen Fassung des Beitrags eingereicht werden.
-
-Accepted papers will be published as a joint collection with all workshop papers in the Digital Library of the [Gesellschaft für Informatik (GI e.V.)](https://dl.gi.de/) publiziert.
+Publication
+----
+Accepted papers will be published as a joint collection with all workshop papers in the Digital Library of the [Gesellschaft für Informatik (GI e.V.)](https://dl.gi.de/).
 
 Workshop Organizers
 ----
-
-- [Dominik Bork](https://www.big.tuwien.ac.at/people/dbork/), TU Wien, Austria
+- [Dominik Bork](https://model-engineering.info/), TU Wien, Austria
 - [Peter Fettke](https://www.dfki.de/web/ueber-uns/mitarbeiter/person/pefe01/), German Research Center for Artificial Intelligence, Saarland University, Germany
 - [Ulrich Reimer](http://www.ulrichreimer.net/), Eastern Switzerland University of Applied Sciences, Switzerland
 
