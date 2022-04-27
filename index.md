@@ -55,8 +55,8 @@ Workshop Program (CEST)
 
 Important Dates
 ----
-- Paper submission: 23.04.2022
-- Author notification: 14.05.2022
+- Paper submission: extended until 05.05.2022
+- Author notification: extended to 17.05.2022
 - Camera-ready Version: 26.05.2022
 
 Paper Submission and Format
