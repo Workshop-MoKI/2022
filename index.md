@@ -30,18 +30,18 @@ Topics of interest include, but are not limited to:
 Workshop Program (CEST)
 ----
 **MoKI Session I **\
-08.30 - 09.00	Artifical Intelligence and Modeling – Setting the Scene\
+09.00 - 09.15	Artifical Intelligence and Modeling – Setting the Scene\
 *Peter Fettke*
 
-09.00 - 09.45	Features of AI Solutions and their Use in AI Context Modeling\
+09.15 - 10.00	Features of AI Solutions and their Use in AI Context Modeling\
 *Jack Rittelmeyer and Kurt Sandkuhl*
 
-09.45 - 10.30	Modeling an Agricultural Process Coordination Problem to Enhance Efficiency and Resilience with Methods of Artificial Intelligence\
+10.00 - 10.45	Modeling an Agricultural Process Coordination Problem to Enhance Efficiency and Resilience with Methods of Artificial Intelligence\
 *Marvin Hubl*
 
 	
 **MoKI Session II **\
-11.00 - 12.30	Moderated Discusstion about MoKI\
+11.15 - 12.30	Moderated Discusstion about MoKI\
 *Ulrich Reimer (Moderator)*
 
 
