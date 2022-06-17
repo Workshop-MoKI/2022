@@ -27,31 +27,23 @@ Topics of interest include, but are not limited to:
 - Learning of meta-models
 - Automatic, incremental model adaptation
 
-<!--
 Workshop Program (CEST)
 ----
-**CMAI Session I chaired by Dominik Bork**\
-13.30 - 13.40	Introduction to the Workshop: Conceptual Modeling and Artificial Intelligence: Mutual Benefits from Complementary Worlds [Paper (PDF)](/papers/CMAI2021_Intro.pdf)\
-*Dominik Bork*
-
-13.40 - 14.10	Why Should Machine Learning Require Conceptual Models? [Paper (PDF)](/papers/[MaassStorey21]WhyShouldMachineLearningRequireConceptualModels.pdf)\
-*Wolfgang Maass and Veda C. Storey*
-
-14.10 - 14.40	Conceptual Models for ML: Reflections and Guidelines [Paper (PDF)](/papers/[Castellanos+12]ConceptualModelsForML.pdf), further reading: [AAAI'21](http://ceur-ws.org/Vol-2846/paper11.pdf) [ER'20](https://link.springer.com/chapter/10.1007/978-3-030-65847-2_3) [CAiSE'19](https://link.springer.com/chapter/10.1007/978-3-030-21297-1_15) [EMMSAD'21](https://link.springer.com/chapter/10.1007/978-3-030-79186-5_19) [DKE'21](https://www.sciencedirect.com/science/article/pii/S0169023X21000367) [MSIQ'21](https://misq.org/from-representation-to-mediation-a-new-agenda-for-conceptual-modeling-research-in-a-digital-world.html)\
-*Arturo Castellanos, Alfred Castillo, Monica Chiarini Tremblay, Roman Lukyanenko, Jeffrey Parsons and Veda C. Storey*
-
-14.40 - 15.10	Using Conceptual Modeling to Drive Machine Learning Solutions Development - A Case Report on applying GR4ML [Paper (PDF)](/papers/[NalchigarYu21]UsingConceptualModelingToDriveMachineLearningSolutionsDevelopment.pdf)\
-*Soroosh Nalchigar and Eric Yu*
-	
-**CMAI Session II chaired by Ulrich Reimer**\
-15.30  - 16.00	Searching for Models with Hybrid AI Techniques [Paper (PDF)](/papers/[Eisenberg+21]SearchingForModelsWithHybridAITechniques.pdf)\
-*Martin Eisenberg, Hans-Peter Pichler, Antonio Garmendia and Manuel Wimmer*
-
-16.00  - 16.30	Conceptual Modelling and Artificial Intelligence Overview and research challenges from the perspective of predictive business process management [Paper (PDF)](/papers/[Fettke21]AI_BPM_short.pdf)\
+**MoKI Session I **\
+08.30 - 09.00	Artifical Intelligence and Modeling – Setting the Scene\
 *Peter Fettke*
 
-16.30  - 17.00	Wrap-Up
--->
+09.00 - 09.45	Features of AI Solutions and their Use in AI Context Modeling\
+*Jack Rittelmeyer and Kurt Sandkuhl*
+
+09.45 - 10.30	Modeling an Agricultural Process Coordination Problem to Enhance Efficiency and Resilience with Methods of Artificial Intelligence\
+*Marvin Hubl*
+
+	
+**MoKI Session II **\
+11.00 - 12.30	Moderated Discusstion about MoKI\
+*Ulrich Reimer (Moderator)*
+
 
 Important Dates
 ----
